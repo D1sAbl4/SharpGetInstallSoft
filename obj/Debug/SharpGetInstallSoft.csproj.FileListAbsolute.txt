@@ -1,0 +1,5 @@
+E:\C#\SharpGetInstallSoft\bin\Debug\SharpGetInstallSoft.exe
+E:\C#\SharpGetInstallSoft\bin\Debug\SharpGetInstallSoft.pdb
+E:\C#\SharpGetInstallSoft\obj\Debug\SharpGetInstallSoft.csproj.CoreCompileInputs.cache
+E:\C#\SharpGetInstallSoft\obj\Debug\SharpGetInstallSoft.exe
+E:\C#\SharpGetInstallSoft\obj\Debug\SharpGetInstallSoft.pdb
